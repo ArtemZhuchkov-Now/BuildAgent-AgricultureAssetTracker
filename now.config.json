@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_agritech_ass",
+  "scopeId": "3a8994f0ebc5b210c5d0f32ffdc0cd26",
+  "name": "Agritech Ass",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "x-snc-agritech-ass",
+    "version": "1.0.0",
+    "description": "[BUILD AGENT GENERATED]:  Smart farm equipment asset management system with IoT monitoring, predictive maintenance, and real-time operational dashboards for the agricultural industry",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "leaflet": "1.9.4"
+    },
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk install",
+        "transform": "now-sdk transform",
+        "types": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "4.0.2",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "4.0.2"
+    }
+}
